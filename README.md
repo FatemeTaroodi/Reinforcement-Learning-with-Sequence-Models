@@ -26,7 +26,8 @@ This section includes key papers and references to deepen your understanding of 
 "Recurrent Neural Networks and LSTMs" (Hochreiter & Schmidhuber, 1997): Seminal paper on LSTMs, critical for understanding sequence models in RL. (Local copy)
 
 Note: If local copies are unavailable, use the arXiv links to access the papers.
-Why This Topic?
+
+**Why This Topic?**
 Reinforcement Learning with Sequence Models is a cutting-edge approach for solving real-world problems where agents make decisions with incomplete information or need to track long-term dependencies. This section is ideal for:
 
 Students and researchers studying RL, sequence models, or their applications.
@@ -39,14 +40,14 @@ View the Slides: Start with slides/RL_Sequence_Models_Spring2025.pdf for a detai
 Explore Resources: Check out the papers in resources/ for deeper insights.
 
 
-How to Contribute
+# How to Contribute
 Feedback is welcome! If you have suggestions or additional resources:
 
 Fork this repository.
 Create a new branch (git checkout -b feature/your-idea).
 Submit a pull request with a clear description of your changes.
 
-License
+# License
 This project is licensed under the MIT License. Feel free to use and share the materials with attribution.
 Contact
 For questions or feedback, reach out via GitHub Issues or email me at [fatemetr35@gmail.com].
